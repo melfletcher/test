@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Assignment Website</title>
+
+<link rel = "stylesheet"
+   type = "text/css"
+   href = "abcd.css" />
+
+<head/>
+
+
+<body> 
+<div>
+<a>Mel Fletcher</a>
+</div>
+<div>
+<h1>H<span class="lightblue">O</span>W <span class="lightblue">T</span>O <span class="lightblue">S</span>T<span class="lightblue">U</span>D<span class="lightblue">Y</span></h1>
+</div>
+<div>
+<h2>Review all work, study all relevant material, do work and do more work.</h2>
+</div>
+<div>
+<h3>Create problems, create work and then come up with a concept for the work.</h3>
+</div>
+
+<h4><mark>What is PHP?</mark></h4>
+
+<ul>
+	<li> PHP stands for <span class="even">P</span>HP <span class="even">H</span>ypertext <span class="even">P</span>reprocesspr</li>
+	<li> PHP is a <span class="under"; id="bold">server-side</span> scripting language, like ASP</li>
+	<li> PHP scripts are executed on the "server"</li>
+	<li>PHP supports many detabases:</li>
+	<ul class="blue">
+		<li>MySQL</li>
+		<li>Informix</li>
+		<li>Oracle</li>
+		<li>Sybase</li>
+		<li>Solid</li>
+		<li>PostgreSQL</li>
+		<li>Generic ODBC, ect.</li>
+	</ul>
+	<li>PHP is an <span class="pink"><i>open source</i></span> software</li>
+	<li>PHP is free to <span class="green">download </span>and use</li>
+</ul>
+
+<img src="" alt="Ozzie went to take a nap. Be back in 15 mins">
+<img src="ozzie.JPG" alt="Ozzie">
+
+</body>
